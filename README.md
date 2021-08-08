@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalho com back-end em NODE.JS
 - 👨‍🎓 Formado em Técnico em informatica pela UFSM.
 - 📚 Cursando Sistemas para internet UFSM.
-- 📕 Aperfeiçoando meus conhecimentos sobre SOLID, TYPESCRIPT,  CLEAN ARCHITECTURE, MICRO-SERVICES.
+- 📕 Aperfeiçoando meus conhecimentos sobre SOLID, TYPESCRIPT,NODEJS,  CLEAN ARCHITECTURE, MICRO-SERVICES.
 
 ## 
  <div>
